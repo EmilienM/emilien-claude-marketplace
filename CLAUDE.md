@@ -1,6 +1,6 @@
 # Claude Code Plugin Marketplace
 
-This marketplace contains the **bbrowning-claude** plugin - a curated collection of skills and commands for development, code review, and best practices.
+This marketplace contains the **emilien-claude** plugin - a curated collection of skills and commands for development, code review, and best practices.
 
 ## Available Skills
 

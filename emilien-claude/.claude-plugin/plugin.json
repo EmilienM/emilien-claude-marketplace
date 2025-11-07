@@ -1,5 +1,5 @@
 {
-  "name": "bbrowning-claude",
+  "name": "emilien-claude",
   "version": "1.0.0",
   "description": "Personal curated collection of Claude Code skills and commands for development, code review, and best practices",
   "author": {
@@ -16,7 +16,7 @@
     "github",
     "code-review"
   ],
-  "repository": "https://github.com/bbrowning/bbrowning-claude-marketplace",
+  "repository": "https://github.com/emilien/emilien-claude-marketplace",
   "license": "Apache-2.0",
   "commands": ["./commands"],
   "skills": ["./skills"]

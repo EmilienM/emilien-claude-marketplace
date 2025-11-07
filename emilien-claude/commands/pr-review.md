@@ -20,7 +20,7 @@ Confirm the pull request to be reviewed with the user before proceeding.
 
 ## Invoke PR Review Skill
 
-Use the Skill tool to invoke `bbrowning-claude:pr-review`, which will:
+Use the Skill tool to invoke `emilien-claude:pr-review`, which will:
 1. Create an isolated git worktree for the PR
 2. Set up .claude configuration sharing
 3. Provide handoff instructions to continue the review in the worktree

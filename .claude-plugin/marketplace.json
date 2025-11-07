@@ -1,16 +1,16 @@
 {
-  "name": "bbrowning-marketplace",
+  "name": "emilien-marketplace",
   "version": "2.0.0",
   "description": "Personal Claude Code plugin marketplace with curated skills for development and code review",
   "owner": {
-    "name": "bbrowning"
+    "name": "emilien"
   },
-  "homepage": "https://github.com/bbrowning/bbrowning-claude-marketplace",
+  "homepage": "https://github.com/emilien/emilien-claude-marketplace",
   "license": "Apache-2.0",
   "plugins": [
     {
-      "name": "bbrowning-claude",
-      "source": "./bbrowning-claude",
+      "name": "emilien-claude",
+      "source": "./emilien-claude",
       "description": "Personal curated collection of Claude Code skills and commands for development, code review, and best practices"
     }
   ]

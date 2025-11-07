@@ -111,19 +111,19 @@ cat ~/.claude/plugins/installed_plugins.json
 
 **Step 2**: Locate the pr-review plugin entry and extract installPath
 ```json
-"bbrowning-claude@bbrowning-marketplace": {
-  "installPath": "/Users/bbrowning/src/bbrowning-claude-marketplace/bbrowning-claude"
+"emilien-claude@emilien-marketplace": {
+  "installPath": "/Users/emilien/src/emilien-claude-marketplace/emilien-claude"
 }
 ```
 
 **Step 3**: Find markdown files in that location
 ```bash
-find /Users/bbrowning/src/bbrowning-claude-marketplace/bbrowning-claude -name "*.md"
+find /Users/emilien/src/emilien-claude-marketplace/emilien-claude -name "*.md"
 ```
 
 **Step 4**: Locate the JWT security reference
 ```
-/Users/bbrowning/.../skills/pr-review/reference/jwt-security.md
+/Users/emilien/.../skills/pr-review/reference/jwt-security.md
 ```
 
 **Step 5**: Read the file

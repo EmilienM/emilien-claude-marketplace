@@ -1,10 +1,10 @@
-# bbrowning-claude Marketplace
+# emilien-claude Marketplace
 
 Personal Claude Code plugin marketplace containing curated skills and commands for development, code review, and best practices.
 
 ## About This Marketplace
 
-This marketplace contains the **bbrowning-claude** plugin, a consolidated collection of:
+This marketplace contains the **emilien-claude** plugin, a consolidated collection of:
 
 ### Development Skills
 - **plugin-builder**: Comprehensive guide for creating Claude Code plugins
@@ -29,13 +29,13 @@ This marketplace contains the **bbrowning-claude** plugin, a consolidated collec
 
 ### Adding This Marketplace
 ```bash
-/plugin marketplace add /path/to/bbrowning-claude-marketplace
+/plugin marketplace add /path/to/emilien-claude-marketplace
 ```
 
 ### Installing the Plugin
 ```bash
-# Install the bbrowning-claude plugin
-/plugin install bbrowning-claude@bbrowning-marketplace
+# Install the emilien-claude plugin
+/plugin install emilien-claude@emilien-marketplace
 
 # Browse all available plugins interactively
 /plugin
@@ -69,18 +69,18 @@ Execute commands directly:
 
 ```bash
 # Enable/disable the plugin
-/plugin enable bbrowning-claude@bbrowning-marketplace
-/plugin disable bbrowning-claude@bbrowning-marketplace
+/plugin enable emilien-claude@emilien-marketplace
+/plugin disable emilien-claude@emilien-marketplace
 
 # Uninstall the plugin
-/plugin uninstall bbrowning-claude@bbrowning-marketplace
+/plugin uninstall emilien-claude@emilien-marketplace
 ```
 
 ### Development Workflow
 ```bash
 # After modifying the plugin, reload it:
-/plugin uninstall bbrowning-claude@bbrowning-marketplace
-/plugin install bbrowning-claude@bbrowning-marketplace
+/plugin uninstall emilien-claude@emilien-marketplace
+/plugin install emilien-claude@emilien-marketplace
 
 # Or restart Claude Code to reload all plugins
 ```
@@ -93,7 +93,7 @@ claude --debug
 
 ## Creating Plugins and Marketplaces
 
-For detailed guidance on creating plugins, marketplaces, or skills, the bbrowning-claude plugin provides specialized skills:
+For detailed guidance on creating plugins, marketplaces, or skills, the emilien-claude plugin provides specialized skills:
 
 - **Creating a plugin?** The `plugin-builder` skill provides comprehensive guidance
 - **Creating a marketplace?** The `marketplace-builder` skill walks you through it
@@ -144,4 +144,4 @@ my-marketplace/
 4. **Paths**: Always use relative paths starting with `./`
 5. **Versioning**: Follow semantic versioning (MAJOR.MINOR.PATCH)
 
-For everything else, use the skills included in the bbrowning-claude plugin.
+For everything else, use the skills included in the emilien-claude plugin.

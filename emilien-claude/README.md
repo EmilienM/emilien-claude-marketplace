@@ -1,4 +1,4 @@
-# bbrowning-claude Plugin
+# emilien-claude Plugin
 
 Personal curated collection of Claude Code skills and commands for development, code review, and best practices.
 
@@ -23,14 +23,14 @@ Personal curated collection of Claude Code skills and commands for development, 
 
 ## Installation
 
-This plugin is distributed via the bbrowning-claude marketplace:
+This plugin is distributed via the emilien-claude marketplace:
 
 ```bash
 # Add the marketplace
-/plugin marketplace add https://github.com/bbrowning/bbrowning-claude-marketplace
+/plugin marketplace add https://github.com/emilien/emilien-claude-marketplace
 
 # Install this plugin
-/plugin install bbrowning-claude@bbrowning-marketplace
+/plugin install emilien-claude@emilien-marketplace
 ```
 
 ## Usage

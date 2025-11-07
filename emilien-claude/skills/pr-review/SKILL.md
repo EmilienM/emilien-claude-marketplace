@@ -361,7 +361,7 @@ git branch -D <repo_name>-pr-<pr_number>
 ```
 1. Gather PR context → Determine repository is "llamastack/llama-stack"
 2. Check for skills → Find "Reviewing Llama Stack Code" skill
-3. Invoke skill → Use Skill tool with "bbrowning-claude:llama-stack"
+3. Invoke skill → Use Skill tool with "emilien-claude:llama-stack"
 4. Apply guidance → Use Llama Stack-specific patterns in review
 ```
 
