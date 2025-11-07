@@ -1,5 +1,11 @@
 # emilien-claude Marketplace
 
+This project is a fork of https://github.com/bbrowning/bbrowning-claude-marketplace which I fonud a really great and high quality example repository start from.
+
+Thank you Ben for this awesome repo!
+
+---
+
 Personal Claude Code plugin marketplace containing curated skills and commands for development, code review, and best practices.
 
 ## About This Marketplace
